@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rodolpho</h1>
 <h3 align="center">Welcome to my github page.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rodolpho211180&label=Profile%20views&color=0e75b6&style=flat" alt="bygalacos" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rodolpho211180&label=Profile%20views&color=0e75b6&style=flat" alt="Rodolpho211180" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 <a href="https://www.w3.org/html/logo/" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" alt="CSS3"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3"/>
