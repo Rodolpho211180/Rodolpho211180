@@ -11,6 +11,6 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" alt="CSS3"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3"/>
 <a href="https://www.javascript.com/" alt="JAVASCRIPT"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Java Script"/>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodolpho211180&show_icons=true&locale=en&layout=compact" alt="Rodolpho211180" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodolpho211180&show_icons=true&locale=en" alt="Rodolpho211180" />
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodolpho211180&show_icons=true&locale=en&layout=compact" alt="Rodolpho211180" &nbsp;/></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodolpho211180&show_icons=true&locale=en" alt="Rodolpho211180" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodolpho211180&" alt="Rodolpho211180" />
