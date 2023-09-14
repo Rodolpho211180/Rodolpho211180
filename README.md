@@ -16,4 +16,4 @@
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rodolpho211180&show_icons=true&locale=en" alt="Rodolpho211180"/></p>
 
-<p><img align= "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodolpho211180&" alt="Rodolpho211180" /></p>
+<p><img align= "left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodolpho211180&" alt="Rodolpho211180" /></p>
