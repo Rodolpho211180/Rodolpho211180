@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodolpho</h1>
 <h3 align="center">Welcome to my github page.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rodolpho211180&label=Profile%20views&color=0e75b6&style=flat" alt="Rodolpho211180" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rodolpho211180&label=Profile%20views&color=0e75b6&style=flat" alt="bygalacos" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,5 +12,5 @@
 <a href="https://www.javascript.com/" alt="JAVASCRIPT"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Java Script"/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodolpho211180&show_icons=true&locale=en&layout=compact" alt="Rodolpho211180" &nbsp;/></p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodolpho211180&show_icons=true&locale=en" alt="Rodolpho211180" &nbsp;/>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodolpho211180&show_icons=true&locale=en" alt="Rodolpho211180"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodolpho211180&" alt="Rodolpho211180" />
