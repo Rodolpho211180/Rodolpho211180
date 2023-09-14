@@ -12,7 +12,8 @@
 <a href="https://www.javascript.com/" alt="JAVASCRIPT"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Java Script"/>
 
 <p><img align = "left"src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodolpho211180&show_icons=true&locale=en&layout=compact" alt="Rodolpho211180"/></p>
-<p align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rodolpho211180&show_icons=true&locale=en" alt="Rodolpho211180"/></p>
 
-<p><img align= "left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodolpho211180&" alt="Rodolpho211180" /></p>
+<p align="center">
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Rodolpho211180&show_icons=true&locale=en" alt="Rodolpho211180"/></p>
+
+<p><img align= "right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodolpho211180&" alt="Rodolpho211180" /></p>
