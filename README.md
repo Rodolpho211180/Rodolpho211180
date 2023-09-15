@@ -11,5 +11,5 @@
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL SERVER" /> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodolpho211180&show_icons=true&locale=en&layout=compact" alt="Rodolpho" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rodolpho211180&show_icons=true&locale=en" alt="Rodolpho" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rodolpho211180&show_icons=true&locale=en" alt="Rodolpho" /></p>
 
