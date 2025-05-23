@@ -9,7 +9,7 @@
 <a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JAVASCRIPT" />
 <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" /><a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank">
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL SERVER" /> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodolpho211180/PROJETOS&show_icons=true&locale=en&layout=compact" alt="Rodolpho" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodolpho211180&show_icons=true&locale=en&layout=compact" alt="Rodolpho" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Rodolpho211180&show_icons=true&locale=en" alt="Rodolpho" /></p>
 
